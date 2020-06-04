@@ -9,3 +9,4 @@ Awesome software I used in Linux.
 * [powerline-status](https://github.com/powerline/powerline)
 * [Oh My Zsh](https://ohmyz.sh)
 * [trojan](https://github.com/trojan-gfw/trojan)
+* [mycli](https://github.com/dbcli/mycli)
