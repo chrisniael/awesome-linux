@@ -13,3 +13,4 @@ Awesome software I used in Linux.
 * [GitLab](https://about.gitlab.com/install)
 * [Gogs](https://gogs.io)
 * [Gitea](https://gitea.io)
+* [Google Authenticator PAM module](https://github.com/google/google-authenticator-libpam)
