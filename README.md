@@ -10,3 +10,4 @@ Awesome software I used in Linux.
 * [Oh My Zsh](https://ohmyz.sh)
 * [trojan](https://github.com/trojan-gfw/trojan)
 * [mycli](https://github.com/dbcli/mycli)
+* [GitLab](https://about.gitlab.com/install)
