@@ -11,3 +11,5 @@ Awesome software I used in Linux.
 * [trojan](https://github.com/trojan-gfw/trojan)
 * [mycli](https://github.com/dbcli/mycli)
 * [GitLab](https://about.gitlab.com/install)
+* [Gogs](https://gogs.io)
+* [Gitea](https://gitea.io)
